@@ -1654,8 +1654,8 @@ vendor/gpu/kbc/unified_kbcs_64.bin
 vendor/gpu/kbc/unified_ksqs.bin
 
 # NFC
-odm/etc/nfc/libnfc-mtp-SN220.conf_22877:vendor/etc/libnfc-nxp.conf
-odm/etc/nfc/libnfc-nci.conf_22877:vendor/etc/libnfc-nci.conf
+odm/etc/nfc/libnfc-mtp-SN220.conf_24881:odm/etc/libnfc-mtp-SN220.conf_24881
+odm/etc/nfc/libnfc-nci.conf_24881:vendor/etc/libnfc-nci.conf
 
 # OPLUS Display
 odm/bin/hw/vendor.oplus.hardware.displaypanelfeature-service
