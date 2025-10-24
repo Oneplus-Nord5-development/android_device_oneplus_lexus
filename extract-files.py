@@ -43,6 +43,7 @@ lib_fixups: lib_fixups_user_type = {
     (
         'com.qti.sensor.lyt808',
         'libarcsoft_triple_sat',
+        'libPanelChaplin',
         'libarcsoft_triple_zoomtranslator',
         'libdualcam_optical_zoom_control',
         'libdualcam_video_optical_zoom',
