@@ -82,6 +82,8 @@ blob_fixups: blob_fixups_user_type = {
         .clear_symbol_version('remote_register_buf'),
     'vendor/lib64/libcwb_qcom_aidl.so': blob_fixup()
         .add_needed('libui_shim.so'),
+    'vendor/etc/libnfc-nci.conf': blob_fixup()
+        .regex_replace('NFC_DEBUG_ENABLED=1', 'NFC_DEBUG_ENABLED=0'),
 }  # fmt: skip
 
 module = ExtractUtilsModule(
