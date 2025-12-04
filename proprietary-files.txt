@@ -1473,7 +1473,6 @@ vendor/lib64/libdisplayconfig.qti.so
 vendor/lib64/libdpp_manager.so
 vendor/lib64/libdpps.so
 vendor/lib64/libgame_enhance.so
-vendor/lib64/libgralloccore.so
 vendor/lib64/libhistogram.so
 vendor/lib64/libhwcsensor.so
 vendor/lib64/libmemutils.so
