@@ -1426,6 +1426,14 @@ odm/etc/display/qdcm_calib_data_AA592_P_7_A0014_dsc_cmd_mode_panel.json
 
 # Display (Features)
 odm/etc/init/hw/init.oplus.display.rc
+odm/etc/PanelChaplin/3D-Lut_Center_P3.txt
+odm/etc/PanelChaplin/3D-Lut_Center_sRGB.txt
+odm/etc/PanelChaplin/3D-Lut_Enhance_P3.txt
+odm/etc/PanelChaplin/3D-Lut_Enhance_sRGB.txt
+odm/etc/PanelChaplin/3D-Lut_Stand_P3.txt
+odm/etc/PanelChaplin/3D-Lut_Stand_sRGB.txt
+odm/etc/PanelChaplin/3D-Lut_StandardMode_P3.txt
+odm/etc/PanelChaplin/3D-Lut_StandardMode_sRGB.txt
 odm/etc/PanelChaplin/AA592_P_7_A0014_dsc_cmd_mode_panel_1_100nit.odf
 odm/etc/PanelChaplin/AA592_P_7_A0014_dsc_cmd_mode_panel_1_2nit.odf
 odm/etc/PanelChaplin/AA592_P_7_A0014_dsc_cmd_mode_panel_1_max.odf
@@ -1452,6 +1460,8 @@ odm/etc/PanelChaplin/AA592_P_7_A0014_dsc_cmd_mode_panel_Vivid_100nits_pGC.txt
 odm/etc/PanelChaplin/AA592_P_7_A0014_dsc_cmd_mode_panel_Vivid_2nits_pGC.txt
 odm/etc/PanelChaplin/AA592_P_7_A0014_dsc_cmd_mode_panel_Vivid_pGC.txt
 odm/etc/PanelChaplin/AdjustValue
+odm/etc/PanelChaplin/Lut3D_311
+odm/etc/PanelChaplin/Lut3D_312
 odm/etc/PanelChaplin/panelchaplin
 odm/lib64/libPanelChaplin.so
 vendor/bin/feature_enabler_client
