@@ -1825,7 +1825,7 @@ odm/etc/init/vibrator-default.rc
 odm/etc/vintf/manifest/vibrator-default.xml
 odm/lib64/android.hardware.vibrator-V2-ndk.so
 odm/lib64/libaacvibrator.so;MODULE_SUFFIX=_odm
-odm/lib64/liboplusvibratoreffect.so
+odm/lib64/liboplusvibratoreffect.so;MODULE_SUFFIX=_odm
 odm/lib64/libsivibrator.so
 odm/lib64/vendor.aac.hardware.richtap.vibrator-V2-ndk.so
 odm/lib64/vendor.oplus.hardware.oplusvibrator-V1-ndk.so

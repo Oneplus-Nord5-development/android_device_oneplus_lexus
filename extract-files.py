@@ -34,6 +34,7 @@ lib_fixups: lib_fixups_user_type = {
     **lib_fixups,
     (
         'libaacvibrator',
+        'liboplusvibratoreffect'
     ): lib_fixup_odm_suffix,
     (
         'libhwconfigurationutil',
