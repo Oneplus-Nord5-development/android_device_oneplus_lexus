@@ -33,6 +33,7 @@ def lib_fixup_vendor_suffix(lib: str, partition: str, *args, **kwargs):
 lib_fixups: lib_fixups_user_type = {
     **lib_fixups,
     (
+        'android.hardware.vibrator-V2-ndk',
         'libaacvibrator',
         'liboplusvibratoreffect',
     ): lib_fixup_odm_suffix,

@@ -1823,7 +1823,7 @@ odm/firmware/ufs/ufs_version_config.xml
 odm/bin/hw/vendor.oplus.hardware.vibrator-service
 odm/etc/init/vibrator-default.rc
 odm/etc/vintf/manifest/vibrator-default.xml
-odm/lib64/android.hardware.vibrator-V2-ndk.so
+odm/lib64/android.hardware.vibrator-V2-ndk.so;MODULE_SUFFIX=_odm
 odm/lib64/libaacvibrator.so;MODULE_SUFFIX=_odm
 odm/lib64/liboplusvibratoreffect.so;MODULE_SUFFIX=_odm
 odm/lib64/libsivibrator.so
