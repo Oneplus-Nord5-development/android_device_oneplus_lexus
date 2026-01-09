@@ -1831,7 +1831,7 @@ odm/lib64/vendor.aac.hardware.richtap.vibrator-V2-ndk.so
 odm/lib64/vendor.oplus.hardware.oplusvibrator-V1-ndk.so
 odm/lib64/vendor.oplus.hardware.vibrator-V1-ndk.so
 vendor/lib64/hw/vibrator.default.so
-vendor/lib64/libvibratorutils.so
+vendor/lib64/libvibratorutils.so;MODULE_SUFFIX=_vendor
 
 # Vibrator firmware
 odm/firmware/aw8697_haptic.bin

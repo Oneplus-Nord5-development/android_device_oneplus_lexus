@@ -34,13 +34,14 @@ lib_fixups: lib_fixups_user_type = {
     **lib_fixups,
     (
         'libaacvibrator',
-        'liboplusvibratoreffect'
+        'liboplusvibratoreffect',
     ): lib_fixup_odm_suffix,
     (
         'libhwconfigurationutil',
         'libPanelChaplin',
         'libpwirisfeature',
         'libpwirishalwrapper',
+        'libvibratorutils',
         'vendor.oplus.hardware.camera_rfi-V1-ndk',
         'vendor.oplus.hardware.cammidasservice-V1-ndk',
         'vendor.pixelworks.hardware.display@1.0',
