@@ -10,6 +10,7 @@ BOARD_SUPER_PARTITION_SIZE := 13883146240
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8650-common/BoardConfigCommon.mk
 
+# Device path
 DEVICE_PATH := device/oneplus/lexus
 
 # Assert
